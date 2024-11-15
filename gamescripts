@@ -943,3 +943,5 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
                                 -(775 + 382) ;end if (v648==1) then v506=1 -0 ;break;end end end end end end);end
                                 end});v100:SetCallback(function(v348) if not v348 then AutoHarvestFruits=false;end
                                 end)
+end
+end
